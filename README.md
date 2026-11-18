@@ -10,6 +10,7 @@ Estudiante de 4.º de **Ingeniería de Tecnologías de Telecomunicación** en la
 |---|---|---|
 | [ClipForge](https://github.com/100472851/clipforge) | Fábrica local de clips verticales: descarga vídeos, los transcribe con Whisper, puntúa los mejores momentos y los renderiza con subtítulos | Python · Streamlit · Whisper · FFmpeg · OpenCV |
 | [NEXO Link Monitor](https://github.com/100472851/nexo-link-monitor) · [▶ jugar](https://100472851.github.io/nexo-link-monitor/) | Juego sobre un enlace radio a 2,4 GHz: analizador de espectro, ACK, interferencias y modulación adaptativa de QPSK a 256-QAM | JavaScript · Canvas |
+| [RoscoMaker](https://github.com/100472851/roscomaker) · [▶ probar](https://100472851.github.io/roscomaker/) | Generador de roscos tipo concurso: saca los colores de una foto, avisa si una pista destripa otra respuesta y exporta un HTML que se juega en el proyector sin internet | TypeScript · Vite · Playwright |
 | [Bot de errores de precio](https://github.com/100472851/bot-errores-amazon) | Alertas por Telegram de errores de precio y chollos en Amazon.es con la API de Keepa | Python · Telegram · SQLite |
 
 ## Proyectos de la carrera
@@ -24,4 +25,4 @@ Estudiante de 4.º de **Ingeniería de Tecnologías de Telecomunicación** en la
 
 ## Tecnologías
 
-Python · C · Java · JavaScript · MATLAB · PyTorch · AWS · Linux · Git · LTspice
+Python · C · Java · JavaScript · TypeScript · MATLAB · PyTorch · AWS · Linux · Git · LTspice
